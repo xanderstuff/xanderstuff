@@ -1,6 +1,8 @@
-### Hi there, I'm xanderstuff 👋
+### Hi there, I'm xanderstuff. Nice to meet you!
 
 **Pronouns:** He/Him
+**Favorite Languages:** Java, Python, C++
+
 
 <!--
 **xanderstuff/xanderstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
