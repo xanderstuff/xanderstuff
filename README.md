@@ -1,7 +1,14 @@
-### Hi there, I'm xanderstuff. Nice to meet you!
+## Hi there, I'm xanderstuff. Nice to meet you!
 
 **Pronouns:** He/Him
+
+**Professional Interests:** Software Development, Hardware Design, Embedded Systems
+
 **Favorite Languages:** Java, Python, C++
+
+**What I do in my free time:** Probably either playing or making mods for Minecraft
+
+![xanderstuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanderstuff&count_private=true&show_icons=true&theme=vue-dark)
 
 
 <!--
