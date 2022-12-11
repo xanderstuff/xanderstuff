@@ -4,7 +4,9 @@
 
 **Professional Interests:** Software Development, Hardware Design, Embedded Systems
 
-**Favorite Languages:** Java, Python, C++
+**Main Language:** Java
+
+**Other Languages I have experience with:** Kotlin, Python, C++, JavaScript
 
 **What I do in my free time:** Probably either playing or making mods for Minecraft
 
