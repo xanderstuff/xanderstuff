@@ -6,7 +6,9 @@
 
 **Main language:** Java
 
-**Other languages I have experience with:** Kotlin, Python, C++, JavaScript
+**Secondary languages:** Kotlin, Python, C++
+
+**I'll use it if I have to, but I really rather not:** JavaScript
 
 **What I do in my free time:** Probably either playing or making mods for Minecraft
 
