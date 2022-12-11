@@ -2,11 +2,11 @@
 
 **Pronouns:** He/Him
 
-**Professional Interests:** Software Development, Hardware Design, Embedded Systems
+**Professional interests:** Software Development, Hardware Design, Embedded Systems
 
-**Main Language:** Java
+**Main language:** Java
 
-**Other Languages I have experience with:** Kotlin, Python, C++, JavaScript
+**Other languages I have experience with:** Kotlin, Python, C++, JavaScript
 
 **What I do in my free time:** Probably either playing or making mods for Minecraft
 
