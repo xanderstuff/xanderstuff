@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Xander, and I like to make stuff. Nice to meet you!
+## 👋 Hi there! I'm Xander, and I like to make stuff. Nice to meet you!
 
 **Professional interests:** Software Development, (Electronics) Hardware Design, Robotics, Embedded Systems
 
