@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Xander, and I like to make stuff. Nice to meet you!
 
-**Professional interests:** Software Development, (Electronics) Hardware Design, Robotics, Embedded Systems
+**Professional interests:** Software Development, Electronics Design, Robotics, Embedded Systems
 
 **Main languages:** English, Java
 
