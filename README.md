@@ -1,16 +1,16 @@
-## Hi there, I'm xanderstuff. Nice to meet you!
+## Hi there, I'm xander, and I like to make stuff. Nice to meet you!
 
-**Pronouns:** He/Him
+**Professional interests:** Software Development, (Electronics) Hardware Design, Robotics, Embedded Systems
 
-**Professional interests:** Software Development, Hardware Design, Embedded Systems
-
-**Main language:** Java
+**Main languages:** English, Java
 
 **Secondary languages:** Kotlin, Python, C++
 
-**I'll use it if I have to, but I really rather not:** JavaScript
+**I'll use it if I have to:** JavaScript; and I can adapt to new langauges given the time
 
 **What I do in my free time:** Probably either playing or making mods for Minecraft
+
+**Pronouns:** He/Him
 
 ![xanderstuff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xanderstuff&count_private=true&show_icons=true&theme=vue-dark)
 
